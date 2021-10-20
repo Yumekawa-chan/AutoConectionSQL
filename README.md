@@ -1,0 +1,2 @@
+# AutoConectionSQL
+東京電機大学のAJ科目"データベース言語SQL"のPostgresSQLサーバーに自動接続するためのpythonコードです。
